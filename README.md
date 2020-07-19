@@ -1,2 +1,2 @@
 # CG
-Vodes for Computer Graphics lab
+Codes for Computer Graphics lab
